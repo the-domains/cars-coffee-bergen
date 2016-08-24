@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.37066200212575495
 name: Cars & Coffee Bergen
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/groups/carsandcoffeebergen/'
+    type: external
 title: Cars & Coffee Bergen
 description: '-der entusiaster møtes'
