@@ -16,5 +16,8 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/groups/carsandcoffeebergen/'
     type: external
+  - name: Cars & Coffee Bergen 10.april 2016
+    id: 33f106d0-d619-43f4-9d5b-9320d234f17f
+    type: content
 title: Cars & Coffee Bergen
 description: '-der entusiaster møtes'
