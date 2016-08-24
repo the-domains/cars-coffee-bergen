@@ -1,17 +1,16 @@
 ---
 description: Cars & Coffee sesongåpner 10. april 2016
-dateModified: '2016-08-24T08:30:19.445Z'
-datePublished: '2016-08-24T08:31:35.834Z'
+dateModified: '2016-08-24T08:48:33.235Z'
+datePublished: '2016-08-24T08:48:34.182Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-cars-and-coffee-sesongapner-10-april-2016.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: cars-and-coffee-sesongapner-10-april-2016/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18591aa8-992d-410a-bcbd-cb1f32f1310c.jpg)
