@@ -1,28 +1,4 @@
-name: Cars & Coffee Bergen
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.11404
-navigation:
-  - name: Facebook
-    url: 'https://www.facebook.com/groups/carsandcoffeebergen/'
-    type: external
-  - name: Cars & Coffee Bergen 10.april 2016
-    id: 33f106d0-d619-43f4-9d5b-9320d234f17f
-    type: content
-title: Cars & Coffee Bergen
-description: '-der entusiaster møtes'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fffeff'
@@ -34,4 +10,28 @@ color:
   lightness: 0.3638466279953718
   saturation: 0.1593795963563025
   rhythmicContrast: 0.6863751753699034
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cars & Coffee Bergen
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/groups/carsandcoffeebergen/'
+    type: external
+  - name: Cars & Coffee Bergen 10.april 2016
+    id: 33f106d0-d619-43f4-9d5b-9320d234f17f
+    type: content
+favicon: null
+title: '-der entusiaster møtes'
+description: '-der entusiaster møtes'
 purpose: []
