@@ -4,7 +4,7 @@
         <description><![CDATA[Cars & Coffee Bergen]]></description>
         <link>https://thegrid.ai/cars-coffee-bergen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 08:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 08:15:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cars-coffee-bergen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/cars-coffee-bergen/e6cdb18d-c012-4a3b-8093-47cf9bba3a83/index.html</link>
             <guid isPermaLink="false">e6cdb18d-c012-4a3b-8093-47cf9bba3a83</guid>
             <pubDate>Wed, 24 Aug 2016 11:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/203088b3-289e-49e8-8c2c-2be7e351a8c7.jpg">]]></description>
-            <link>https://thegrid.ai/cars-coffee-bergen/3929a805-f165-45da-ac04-41a958ab15d1/index.html</link>
-            <guid isPermaLink="false">3929a805-f165-45da-ac04-41a958ab15d1</guid>
-            <pubDate>Wed, 24 Aug 2016 11:08:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
