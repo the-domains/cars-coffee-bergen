@@ -1,29 +1,7 @@
-layout_spectrum: 0.7227052454836667
-typography_spectrum: 0.4395554030779749
-color:
-  brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-  brandStrength: 0.01639608363620937
-  lightness: 0.5090521203819662
-  saturation: 0.14827024121768773
-  rhythmicContrast: 0.4419020575005561
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: Cars & Coffee Bergen
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+layout_spectrum: 0.91132
+typography_spectrum: 0.4395554030779749
 navigation:
   - name: Facebook
     url: 'https://www.facebook.com/groups/carsandcoffeebergen/'
@@ -31,7 +9,29 @@ navigation:
   - name: Kjøp Cars & Coffe T-skjorter og krus
     url: 'http://shop.spreadshirt.no/carsandcoffeebergen/'
     type: external
-favicon: null
 title: '-der entusiaster møtes'
 description: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#3f3f3f'
+    - '#c1c1c1'
+    - '#bf2535'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
