@@ -1,6 +1,6 @@
 name: Cars & Coffee Bergen
 favicon: null
-layout_spectrum: 0.91132
+layout_spectrum: 0.25161
 typography_spectrum: 0.4395554030779749
 navigation:
   - name: Facebook
@@ -30,8 +30,8 @@ color:
     - '#3f3f3f'
     - '#c1c1c1'
     - '#bf2535'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.1875
-  saturation: 0.125
-  rhythmicContrast: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
